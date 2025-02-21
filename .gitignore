@@ -13,4 +13,5 @@ __pycache__/
 .idea/
 
 # Misc
-*.log 
+*.log
+.DS_Store 
